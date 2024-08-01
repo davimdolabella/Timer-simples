@@ -1,3 +1,3 @@
 # Timer-simples
 ##### Timer com js puro, cheio de bugs.
-Para acessar [clique aqui](https://sitesdmd.github.io/Timer-simples/) ⬅️.
+Para acessar [clique aqui](https://davimdolabella.github.io/Timer-simples/) ⬅️.
